@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Because of the fact that this product is an accelerator not an automate, it does not replace the tester but help them to be more performant in their work. By it, they will spend less time to do long actions and avoid more human errors they can do.</description>
+   <name>GUI_accelerator</name>
+   <tag></tag>
+   <UUID>84e6e1b7-10a1-45c6-838f-27ec54a17aed</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
